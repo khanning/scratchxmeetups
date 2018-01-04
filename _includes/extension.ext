@@ -1,0 +1,7 @@
+<div class="ext-entry">
+  <hr />
+  <h2>{{ include.name }}</h2>
+  <img class="ext-thumb" src="{{ include.img }}" alt="" /><br />
+  <a href="{{ include.docs }}">Extension documentation</a><br />
+  <a target="_blank" href="{{ include.url }}">Launch extension</a><br />
+</div>

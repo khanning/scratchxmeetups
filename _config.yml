@@ -1,0 +1,13 @@
+title: ScratchX Meetup Resources
+author: Kreg Hanning
+email: kreg@scratch.mit.edu
+description: Resources for ScratchX Educator Meetups
+baseurl: ""
+url: "khanning.github.io/scratchxmeetups"
+twitter_username: khanning88
+github_username:  khanning
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:

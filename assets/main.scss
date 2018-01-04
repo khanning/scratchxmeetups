@@ -1,0 +1,31 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.ext-entry {
+  margin-bottom: 20px;
+}
+
+.ext-entry h2 {
+  margin-bottom: 10px;
+}
+
+.ext-thumb {
+  width: 300px;
+  margin-bottom: 10px;
+}
+
+.extension-url {
+  margin-bottom: 40px;
+}
+
+.extension-url h3 {
+  margin-bottom: 5px;
+}
+
+.url-field {
+  font-size: 14px;
+  font-family: monospace;
+}
